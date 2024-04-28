@@ -1,0 +1,7 @@
+https://machinelearningmastery.com/imbalanced-classification-with-the-adult-income-dataset/
+
+https://towardsdatascience.com/a-beginners-guide-to-data-analysis-machine-learning-with-python-adult-salary-dataset-e5fc028b6f0a
+
+https://www.kaggle.com/code/aditimulye/adult-income-dataset-from-scratch
+
+https://www.kaggle.com/code/lokanath2019/income-prediction-by-using-decision-tree
